@@ -1,3 +1,6 @@
+André Silva de Araújo
+RGM: 47653191 
+
 projeto_estruturas_lineares
 Atividade de miniprojetos em Python — Programação de Computadores (1º Semestre 2026)
 
